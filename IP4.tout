@@ -1,0 +1,71 @@
+
+     ######################################################################
+   ##########################################################################
+  ###                                                                      ###
+ ###            Tinker  ---  Software Tools for Molecular Design            ###
+ ##                                                                          ##
+ ##                          Version 8.8  June 2020                          ##
+ ##                                                                          ##
+ ##               Copyright (c)  Jay William Ponder  1990-2020               ##
+ ###                           All Rights Reserved                          ###
+  ###                                                                      ###
+   ##########################################################################
+     ######################################################################
+
+
+ Additional Partial Charges for Specific Atoms :
+
+        Atom                Charge
+
+           1               -0.2882
+           2                0.1382
+           3                0.2800
+           4                0.1382
+           5               -0.2882
+           6               -0.6800
+           7                0.0000
+           8                0.0000
+           9                0.0000
+          10                0.0000
+          11                0.0000
+          12                0.1500
+          13                0.1500
+          14                0.4000
+          15                0.0000
+          16                0.0000
+          17                0.0000
+
+ Number of Torsions Used in Derivative Computation :     2
+
+ Generating Seed Point for Potential Energy Surface Scan
+
+
+    Potential Surface Map       Minimum      1               31.3355
+
+
+ Normal Mode Local Search       Minimum      1
+
+    Search Direction   1           Step     11               31.3355
+    Search Direction   2           Step     12               31.3355
+    Search Direction   3           Step      9               29.0416
+
+    Potential Surface Map       Minimum      2               29.0416
+
+    Search Direction   4           Step     12               31.3763
+
+    Potential Surface Map       Minimum      3               31.3763
+
+
+ Normal Mode Local Search       Minimum      2
+
+    Search Direction   1           Step     11               29.0416
+    Search Direction   2           Step     12               29.0416
+    Search Direction   3           Step     13               31.3763
+    Search Direction   4           Step     13               31.3355
+
+ Normal Mode Local Search       Minimum      3
+
+    Search Direction   1           Step     11               31.3763
+    Search Direction   2           Step     12               31.3763
+    Search Direction   3           Step     12               31.3355
+    Search Direction   4           Step      9               29.0416
